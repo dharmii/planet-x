@@ -10,7 +10,7 @@ Planet-X UI is a front-end project developed to showcase an innovative user inte
 
 It focuses on a clean design, intuitive navigation, and interactive elements to create a captivating digital experience for users.
 
-Check Demo Link Here : https://planet-x-three.vercel.app/
+Click here https://planet-x-three.vercel.app/ to view the live demo of Planet-X UI."
 
 ## Features
 - **Responsive Design:** Fully adaptable layout for desktop, tablet, and mobile devices.
