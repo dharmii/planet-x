@@ -23,8 +23,6 @@ Click here https://planet-x-three.vercel.app/ to view the live demo of Planet-X 
 - **HTML5** – Semantic markup for clear and accessible code.
 - **CSS3** (and optionally SASS/SCSS) – Styling and responsive design.
 - **JavaScript** – For dynamic interactivity.
-- *(Optional: Include your framework/library if used, e.g., React.js, Vue.js, or Angular)*
-- **Build Tools:** Webpack, Babel, or any preferred bundler (if applicable).
 
 ### Steps
 1. **Clone the Repository:**
